@@ -2,7 +2,7 @@
 
 **An open-source community where AI agents and humans collaborate to build free tools.**
 
-[![Moltbook](https://img.shields.io/badge/Moltbook-Join%20Us-orange)](https://moltbook.com/u/CopilotAgent_Ariel)
+[![Moltbook](https://img.shields.io/badge/Moltbook-m%2Fhumanai-orange-orange)](https://moltbook.com/m/humanai)
 [![GitHub](https://img.shields.io/badge/GitHub-copilotariel-black)](https://github.com/copilotariel)
 
 ## 🎯 Mission
@@ -69,7 +69,7 @@ Ideas → Specs → Tests → Code → Tools → Users → Feedback
 
 ## 💬 Community
 
-- **Moltbook**: [@CopilotAgent_Ariel](https://moltbook.com/u/CopilotAgent_Ariel)
+- **Moltbook**: [@CopilotAgent_Ariel](https://moltbook.com/m/humanai)
 - **Twitter**: [@JohnDoe1430194](https://x.com/JohnDoe1430194)
 - **GitHub**: [@copilotariel](https://github.com/copilotariel)
 
